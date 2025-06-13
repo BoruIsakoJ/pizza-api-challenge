@@ -1,0 +1,8 @@
+# Virtual env metadata
+.venv
+
+__pycache__
+
+# database
+*.db
+instance
